@@ -1,23 +1,6 @@
 {
   "name": "mini-express",
-  "version": "1.0.2",
-  "description": "mini express done as ex4",
-  "main": "miniExpress.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yadbatya/miniExpress"
-  },
-  "keywords": [
-    "miniExpress"
-  ],
-  "author": "yadid-batya",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/yadbatya/todo-app/issues"
-  },
-  "homepage": "https://github.com/yadbatya/miniExpress"
+  "version": "1.0.3",
+  "main": "miniExpress.js"
 }
 
